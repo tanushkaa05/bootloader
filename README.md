@@ -2,4 +2,5 @@
 Application 1 corresponds to Bootloader while application 0 works on new Bootloader firmware
 
 More commands to be added
+
 cleanup required
